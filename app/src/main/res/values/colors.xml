@@ -2,4 +2,7 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+<!--    <color name="button_1_color">#1369A2</color>-->
+<!--    <color name="button_2_color">#1321A2</color>-->
+<!--    <color name="button_3_color">#4C13A2</color>-->
 </resources>

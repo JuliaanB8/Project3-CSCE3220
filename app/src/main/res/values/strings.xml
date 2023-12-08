@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Project3</string>
+    <string name="button_1">Toast</string>
+    <string name="button_2">Wind</string>
+    <string name="button_3">Book</string>
+    <string name="toast_image_description">Image of two pieces of toast</string>
+    <string name="wind_image_description">Image of a cloud blowing wind</string>
+    <string name="book_image_description">Image of a book</string>
+    <string name="title">Project 3</string>
+    <string name="description">Press a button to show an image</string>
 </resources>
